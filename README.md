@@ -66,17 +66,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IanTsung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=500" alt="Ian's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanTsung&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=IanTsung&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IanTsung&theme=tokyonight&no-frame=true&column=4&margin-w=8" alt="Trophies"/>
 </p>
