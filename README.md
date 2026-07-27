@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Ian%20Cong&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Engineer%20%C2%B7%20AWS%20Certified&descSize=20&descAlignY=62&animation=fadeIn" alt="Header"/>
-</p>
-
 <h1 align="center">Hi, I'm Ian 👋</h1>
 
 <p align="center">
-  <em>Full-stack engineer crafting clean, scalable systems.</em><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&height=70&lines=Full-stack+Engineer;AWS+Certified+Professional;Building+at+Viva+Leisure" alt="Roles"/>
+</p>
+
+<p align="center">
+  <em>Crafting clean, scalable systems — front to back.</em><br/>
   Currently building serverless products at <strong>Viva Leisure</strong> 🇦🇺
 </p>
 
