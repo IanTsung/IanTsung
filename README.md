@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Ian 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&height=70&lines=Full-stack+Engineer;AWS+Certified+Professional;Building+at+Viva+Leisure" alt="Roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=800&height=90&lines=Hi%2C+I'm+Ian+%F0%9F%91%8B;Full-stack+Engineer;AWS+Certified+Professional;Building+at+Viva+Leisure" alt="Ian Cong"/>
 </p>
 
 <p align="center">
