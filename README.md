@@ -13,8 +13,6 @@
   <a href="mailto:zhaoyan.ian.cong@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
 ## 🧑‍💻 About Me
 
 - 🔭 Building serverless products at **Viva Leisure**
@@ -22,8 +20,6 @@
 - 📜 **AWS Certified** — Developer (Associate) & Solutions Architect (Professional)
 - 🌱 Care deeply about product craft, scalability, and code that ages well
 - 💬 Ask me about **React, Node.js, AWS, or anything full-stack**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -55,8 +51,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
